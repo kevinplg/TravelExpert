@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\taric\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\taric\\.nuget\\packages"
+    ]
+  }
+}
